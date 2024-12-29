@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning DSA in Java
-- 😄 Pronouns: She/He
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love solving complex problems and experimenting with new technologies.
 
 
