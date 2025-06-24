@@ -66,8 +66,8 @@
 ### 🌐 Connect with Me
 
 - 💼 [LinkedIn – Suhani Tiwari](https://www.linkedin.com/in/suhani-tiwari-347a57329)
-- 📧 Email: **shalutiwari842@gmail.com**
-- 💻 GitHub: [github.com/shalutiwari842](https://github.com/shalutiwari842)
+- 📧 Email: **suhanitiwari247@gmail.com**
+- 💻 GitHub: https://github.com/suhanitiwari247
 
 ---
 
