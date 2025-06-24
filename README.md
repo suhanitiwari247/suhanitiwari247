@@ -1,57 +1,75 @@
 <h1 align="center">Hi 👋, I'm Suhani Tiwari</h1>
-<h3 align="center">A passionate Computer Science student & aspiring Software Engineer 🚀</h3>
-
-- 🌱 I’m currently learning *DSA, Java, React, and Machine Learning*
-- 🎯 2025 Goal: Crack *top hiring challenges* like TCS CodeVita, Code Divas, etc.
-- 🔭 I’m working on *Java Projects, Web Apps & ML Models*
-- 💬 Ask me about *Java, C++, Python, DSA, Web Dev, or GitHub*
-- 📫 Reach me at: *shalutiwari842@gmail.com*
-- ⚡ Fun fact: I love designing creative UIs and helping friends with tech! 💡
+<h3 align="center">DSA Proficient | Java Enthusiast | Backend Developer | Creative Frontend Learner</h3>
 
 ---
 
-### 💻 Languages & Tools
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+### 👩‍💻 About Me
+
+- 🎓 Computer Science student from Bhopal, Madhya Pradesh
+- 💻 Strong in **DSA**, **Java**, **C++**, and **Python**
+- 🌐 Learning and building projects with **ReactJS**, **HTML/CSS**, and **JavaScript**
+- 🛠️ Exploring **Backend Development** and **System Design**
+- 🧠 Passionate about solving real-world problems through technology
+- 🏆 Active participant in **coding contests** and **hackathons**
+- 📫 Reach me at: **suhanitiwari247@gmail.com**
 
 ---
 
-### 📊 GitHub Stats
+### 💡 Skill Set
+
+| Category            | Technologies & Tools |
+|---------------------|----------------------|
+| Languages           | Java, C++, Python     |
+| Frontend            | HTML, CSS, JavaScript, ReactJS |
+| Backend             | Java (Servlets), Node.js (Learning) |
+| Database/Tools      | MySQL, Git, GitHub, VS Code |
+| CS Fundamentals     | DSA, OOPs, System Design (Basic) |
+
+---
+
+### 💼 Career Goals
+
+- 🔍 Preparing for **SDE roles** at product-based and service-based companies
+- 💡 Focused on **full stack development**, **competitive programming**, and **interview prep**
+- 🤝 Open to internships, projects, and collaborations
+
+---
+
+### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalutiwari842&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shalutiwari842&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalutiwari842&theme=radical" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalutiwari842&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🧠 Current Projects
-- Java Calculator App
-- Fake News Detection using Python
-- ReactJS Portfolio Website (my-creative-website)
-- DSA Problems Daily
+### 💻 Projects
+
+- 🔢 **Java Calculator App**
+- 🌐 **ReactJS Portfolio Website**
+- 📰 **Fake News Detection with Python**
+- 🧠 **Daily DSA Practice Tracker**
 
 ---
 
-### 📚 Learning Roadmap
-- Java OOP + DSA
-- Full Stack Development (MERN)
-- Machine Learning with Python
-- Git + GitHub Mastery
+### 📚 Current Focus
+
+- ✅ Java DSA + OOPs Mastery
+- ✅ Full Stack (MERN Stack)
+- ✅ System Design Basics
+- ✅ Git & GitHub Workflow
 
 ---
 
-### 🌐 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
-- 📎 [Portfolio](https://your-portfolio-link.com)
+### 🌐 Connect with Me
+
+- 💼 [LinkedIn – Suhani Tiwari](https://www.linkedin.com/in/suhani-tiwari-347a57329)
+- 📧 Email: **shalutiwari842@gmail.com**
+- 💻 GitHub: [github.com/shalutiwari842](https://github.com/shalutiwari842)
 
 ---
 
-✨ “Consistency is the key to cracking any code.” ✨
+### ✨ Quote I Live By
+> *“Skills get you interviews. Projects and consistency get you hired.”*
