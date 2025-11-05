@@ -6,7 +6,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 Computer Science student from Bhopal, Madhya Pradesh  
-- 💻 Strong in **DSA**, **Java**, **C++**, and **Python**  
+- 💻 Strong in **DSA**, **Java**, and **C++**
 - 🌐 Learning and building projects with **ReactJS**, **HTML/CSS**, **JavaScript**, **NestJS**, **Next.js**  
 - 🛠️ Exploring **Backend Development**, **Cloud Systems**, and **System Design**  
 - 🧠 Passionate about solving real-world problems through technology  
